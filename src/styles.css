@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.ae {
+  padding-top: 15px;
+  margin-top: 15px;
+}
+
+.video {
+  align-content: center;
+  justify-items: center;
+  justify-content: center;
+}
